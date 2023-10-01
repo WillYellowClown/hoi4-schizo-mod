@@ -1,8 +1,8 @@
-version="1.12"
+version="0.0"
 tags={
 	"Alternative History"
 	"Map"
 	"National Focuses"
 }
 name="End of Empires"
-supported_version="1.12.14"
+supported_version="1.12.*"
